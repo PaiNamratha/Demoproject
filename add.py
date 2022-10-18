@@ -3,6 +3,6 @@ b = int(input("Enter b value"))
 
 def add(a,b):
   sum = a+b
-  print("Sum",sum)
+  print("Sum of two numbers",sum)
 
 add(a,b)
