@@ -4,7 +4,7 @@ b = int(input("Enter b value"))
 def add(a,b):
   sum = a+b
   print("Sum of two numbers",sum)
-  print("a",a)
-  print("b",b)
+  print("a ",a)
+  print("b ",b)
 
 add(a,b)
